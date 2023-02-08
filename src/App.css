@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 40px;
+  background-color: #8b9295;
+  color: #ffffff;
+}
+.list{
+  text-align: center;
+margin: 0 auto;
+font-size: 20px;
+width: 400px;
+height: 100px;
+background-color: #ff6d6d;
+color: #ffffff;
+-webkit-box-shadow: 2px 3px 14px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 3px 14px 0px rgba(0,0,0,0.75);
+box-shadow: 2px 3px 14px 0px rgba(0,0,0,0.75);
+ 
+}
+
+.list button{
+ margin:10px;
+ font-size:19px;
+ justify-content: center;
+ background-color: #b1dcff; 
+ border-radius: 25px;
+}
+.add{
+ font-size:19px;
+ justify-content: center;
+ color: #000000;
+ background-color: #ffffff; 
+ border-radius: 25px;
+}
+.add button{
+  background-color: #b1dcff; 
+ border-radius: 25px;
+ margin: 10px;
+ font-size:19px;
+}
